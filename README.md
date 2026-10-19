@@ -1,4 +1,5 @@
 # NaviFreight AI: Intelligent Maritime Freight Forecasting & Bulk Chartering Decision Platform
+> 🚀 **Live Demo:** [https://freight-forecasting-model-chi.vercel.app](https://freight-forecasting-model-chi.vercel.app)
 
 An enterprise-grade Next.js (App Router, TypeScript, Tailwind CSS) platform providing predictive freight rate analytics, vessel feasibility validation against physical port constraints (draft, LOA, beam), and actionable contract recommendations (Spot vs Short/Mid-term COA) for bulk cargo procurement into the East Coast of India.
 
